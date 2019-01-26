@@ -16,6 +16,9 @@
     "url": "https://github.com/zachisaac/burger/issues"
   },
   "homepage": "https://github.com/zachisaac/burger#readme",
+  "engines": {
+    "node": "10.5.0"
+  },
   "dependencies": {
     "body-parser": "^1.18.3",
     "express": "^4.16.4",
